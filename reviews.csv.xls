@@ -1,0 +1,16 @@
+Review,Expected_Sentiment
+The product quality is excellent and I am very happy with the purchase.,Positive
+"Amazing experience, fast delivery and great packaging.",Positive
+I love this product. It works exactly as described.,Positive
+Good value for money and the quality is impressive.,Positive
+Very useful product and the delivery was quick.,Positive
+"The product is okay, nothing special but it works.",Neutral
+Average quality. It is neither good nor bad.,Neutral
+Delivery was normal and the product matched the description.,Neutral
+The item is acceptable for the price.,Neutral
+"It works, but I expected a little more.",Neutral
+Very poor quality and completely disappointing.,Negative
+The product stopped working after two days.,Negative
+Terrible experience. Delivery was late and the item was damaged.,Negative
+I regret buying this product. Not worth the money.,Negative
+Bad packaging and poor customer service.,Negative
